@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('João', '072.778.879-22', 2200.0, TIMESTAMP WITH TIME ZONE '1994-01-05T10:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Maria', '072.778.879-23', 2700.0, TIMESTAMP WITH TIME ZONE '1995-01-05T10:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Pedro', '072.778.879-24', 2400.0, TIMESTAMP WITH TIME ZONE '1997-01-05T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Alice', '072.778.879-25', 1200.0, TIMESTAMP WITH TIME ZONE '1992-01-05T10:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Carlos', '072.778.879-26', 5200.0, TIMESTAMP WITH TIME ZONE '1998-01-05T10:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Luisa', '072.778.879-27', 8200.0, TIMESTAMP WITH TIME ZONE '1993-01-05T10:00:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Rodrigo', '072.778.879-28', 7200.0, TIMESTAMP WITH TIME ZONE '1990-01-05T10:00:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Manuela', '072.778.879-29', 4600.0, TIMESTAMP WITH TIME ZONE '1999-01-05T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Lucas', '072.778.879-20', 3500.0, TIMESTAMP WITH TIME ZONE '2000-01-05T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Sophia', '072.778.879-32', 6700.0, TIMESTAMP WITH TIME ZONE '1991-01-05T10:00:00Z', 1);
